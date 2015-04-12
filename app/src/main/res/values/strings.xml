@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerTests</string>
+    <string name="label_next_example">Next Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spinner2">Spinner2Activity</string>
+    <string name="title_activity_spinner3">Spinner3Activity</string>
+    <string name="title_activity_spinner4">Spinner4Activity</string>
+    <string name="title_activity_spinner5">Spinner5Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
